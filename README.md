@@ -1,6 +1,9 @@
 # Arduino Session 1 
 In this session you will learn about the basics of working with the Arduino embedded system by developing 3 systems. 
 
+## Setup: Get ready to work on the projects
+* [Getting Started](Getting_Started)
+
 ## Challenge 1: Construct a nightlight
 * [Example 1 - Hello World](example_1.md)
 * [Example 2 - Potentiometer Input](example_2.md)
