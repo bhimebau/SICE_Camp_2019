@@ -26,12 +26,8 @@ In this session you will work with a touch display connected to the Arduino.
 
 The [TFTP Display Wiki](http://wiki.seeedstudio.com/2.8inch_TFT_Touch_Shield_v2.0/) provides a great deal of background information on the display/touch screen. 
 
-Libraries - download as zip files and copy to your Arduino/libraries Folder (see wiki above for additional detail). *Once the library files are copyed, you will need to restart the Arduino IDE for the files to be recognized.* 
-  * [Display](https://github.com/Seeed-Studio/TFT_Touch_Shield_V2)
-  * [Touch Screen](https://github.com/Seeed-Studio/Touch_Screen_Driver)
+Make sure that you have installed the libraries as described in [Getting Started](https://github.com/bhimebau/SICE_Camp_2019/blob/master/Getting_Started.md#installing-libraries). 
  
-TFT and Touch Screen Examples: Note that there are working example included in **File->Examples**  
-
 ### Development Challenges
   * Problem 1: Create a program that moves a circle around the edges of the screen. Try to make the motion of the circle as smooth as possible.  
   * Problem 2: Create a program that generates the IU logo.

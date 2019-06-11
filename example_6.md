@@ -6,7 +6,8 @@ Create a parking assistance device called parking buddy. This device
 will aid a driver in getting their car a specific distance from a garage wall. 
 
 ## Library Setup
-Copy **libraries/Newping** to **Documents/Arduino/libraries**. You will need to restart the Arduino IDE before the Newping library can be used."
+
+Make sure that you have installed the libraries as described in [Getting Started](https://github.com/bhimebau/SICE_Camp_2019/blob/master/Getting_Started.md#installing-libraries). 
 
 ## Hardware Setup
 
