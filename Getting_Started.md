@@ -1,7 +1,7 @@
 ## Downloading the SICE Camp Arduino Repository
 
 You should download the code for the camp arduino sessions from the
-following location. You should use the **Clone or download" button on
+following location. You should use the **Clone or download** button on
 the right side of the page to select the **Download ZIP** option.
 
 ```bash
